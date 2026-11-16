@@ -1,0 +1,8 @@
+title: Ave – Rosenkranz
+markdown: kramdown
+kramdown:
+  input: GFM
+  # Single line breaks stay line breaks (addresses in the legal notice).
+  hard_wrap: true
+exclude:
+  - README.md
